@@ -7,7 +7,7 @@
 }
 
 :root{
-    --color-bg: linear-gradient(to top,#7f1b70,#040005);
+  --color-bg: linear-gradient(to top, #ff4d6b, #ff206b);
     --color-glass:linear-gradient(to left,#142544,#1a9092);
     --color-water:linear-gradient(to left,#142544,#1b6d6e);
 }
